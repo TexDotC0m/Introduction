@@ -2,8 +2,8 @@
 - 👀 I’m interested in back ending programing and cybersecurity
 - 🌱 I’m currently learning the basics of programing
 - 📫 How to reach me = in here!
-- 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: not the best in maths but trying!
+- 😄 Pronouns: he/him, they/them, she/her
+- ⚡ Fun fact: I am really hyperactive at night
 
 <!---
 YourFather0/YourFather0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

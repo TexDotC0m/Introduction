@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YourFather0
 - 👀 I’m interested in back ending programing and cybersecurity
-- 🌱 I’m currently learning the basics of programing
+- 🌱 I’m currently learning the basics of back ending
 - 📫 How to reach me = in here!
 - 😄 Pronouns: he/him, they/them, she/her
 - ⚡ Fun fact: I am really hyperactive at night
